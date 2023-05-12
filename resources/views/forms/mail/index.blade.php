@@ -1,0 +1,1 @@
+это index.blade.php для Mail

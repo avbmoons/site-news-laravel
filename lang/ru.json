@@ -1,0 +1,17 @@
+{
+    "Register": "Регистрация",
+    "Name": "Имя",
+    "Email Address": "E-mail адрес",
+    "Password": "Пароль",
+    "Confirm Password": "Подтвердите пароль",
+    "Login": "Вход",
+    "Remember Me": "Запомнить меня",
+    "Forgot Your Password?": "Забыли пароль?",
+    "Logout": "Выход",
+    "Reset Password": "Изменить пароль",
+    "Send Password Reset Link": "Отправить ссылку для изменения пароля",
+    "Previous": "Предыдущая",
+    "Next": "Следующая"
+
+
+}
